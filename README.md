@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Luan Carusi
 
-- 🔭 Hoje trabalho com a união entre progamação e eletrônica
-- 🌱 Estudando Engenharia da Computação - Foco em Python e Dados
+- 🔭 Integração entre tecnologia e meio ambiente
+- 🌱 Formado em Engenharia da Computação - Foco em Python e Dados
 - 💬 Contate-me pelo email: luan.carusi@gmail.com
 - 😄 Pronouns: ele/dele
 
